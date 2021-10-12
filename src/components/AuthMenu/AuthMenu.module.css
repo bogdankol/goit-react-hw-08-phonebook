@@ -1,0 +1,15 @@
+
+.navLink {
+    color: #2A363B;
+    font-weight: 700;
+}
+.navLink:first-child {
+    margin-right: 25px;
+}
+.navLink:last-child {
+    padding-right: 25px;
+}
+
+.active {
+    color: #E84A5F;
+}
